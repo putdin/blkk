@@ -1,11 +1,7 @@
-# our-school
-
--Aplikasi Informasi sekolah sederhana- 
-
 # Login
 
 - email : admin@example.com
-- password : password
+- password : admin
 
 ## Fitur 
 
